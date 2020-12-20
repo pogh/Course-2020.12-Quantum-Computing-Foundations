@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Exercise 4": {
+      "commandName": "Project",
+      "commandLineArgs": "--simulator ResourcesEstimator"
+    }
+  }
+}
